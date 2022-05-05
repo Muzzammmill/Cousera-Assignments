@@ -18,6 +18,7 @@ h1 {
   margin-top: 0;
   margin-right: 0;
   width: -15px;
+  clear:left
 }
 .beef {
   background-color: rgb(193, 69, 67);
@@ -26,6 +27,7 @@ h1 {
   margin-top: 0;
   margin-right: 0;
   width: -15px;
+  clear:left
 }
 .sushi {
   background-color: rgb(229, 209, 152);
@@ -34,6 +36,7 @@ h1 {
   margin-top: 0;
   margin-right: 0;
   width: -15px;
+  clear:left
 }
 .row {
   width: 100%;
