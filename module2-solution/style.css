@@ -10,6 +10,7 @@ h1 {
   background-color: rgb(153, 153, 153);
   width: 90%;
   margin: 0 auto;
+  position: relative;
 }
 .chicken {
   background-color: rgb(213, 152, 152);
