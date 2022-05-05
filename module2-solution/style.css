@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+p {
+  margin-top: 30px;
+}
 h1 {
   margin-bottom: 15px;
   text-align: center;
@@ -17,8 +20,7 @@ h1 {
   float: right;
   margin-top: 0;
   margin-right: 0;
-  width: -15px;
-  clear:left
+  clear: left;
 }
 .beef {
   background-color: rgb(193, 69, 67);
@@ -26,8 +28,7 @@ h1 {
   float: right;
   margin-top: 0;
   margin-right: 0;
-  width: -15px;
-  clear:left
+  clear: left;
 }
 .sushi {
   background-color: rgb(229, 209, 152);
@@ -35,8 +36,7 @@ h1 {
   float: right;
   margin-top: 0;
   margin-right: 0;
-  width: -15px;
-  clear:left
+  clear: left;
 }
 .row {
   width: 100%;
