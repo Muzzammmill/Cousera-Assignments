@@ -17,35 +17,29 @@ h1 {
 .chicken {
   background-color: rgb(213, 152, 152);
   border: 1px solid black;
-  padding: 3px 0;
-  text-align: center;
+  float: right;
   margin-top: 0;
   margin-right: 0;
-  position:absolute;
-  width: 200px;
-  font-weight: bold;
+  width: 100px;
+  text-align: center;
 }
 .beef {
   background-color: rgb(193, 69, 67);
   border: 1px solid black;
-  padding: 3px 0;
-  text-align: center;
+  float: right;
   margin-top: 0;
   margin-right: 0;
-  position:absolute;
-  width: 200px;
-  font-weight: bold;
+  width: 100px;
+  text-align: center;
 }
 .sushi {
   background-color: rgb(229, 209, 152);
   border: 1px solid black;
-  padding: 3px 0;
-  text-align: center;
+  float: right;
   margin-top: 0;
   margin-right: 0;
-  position:absolute;
-  width: 200px;
-  font-weight: bold;
+  width: 100px;
+  text-align: center;
 }
 .row {
   width: 100%;
